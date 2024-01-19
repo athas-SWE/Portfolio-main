@@ -42,7 +42,8 @@ const Intro = () => {
             </IconButton>
           </a>
 
-          <a href='www.linkedin.com/in/athas-ahamed-8433a517b' target="_blank" rel="noopener noreferrer">
+          <a href='www.linkedin.com/in/
+athas-ahamed-8433a517b' target="_blank" rel="noopener noreferrer">
             <IconButton>
               <LinkedIn />
             </IconButton>
