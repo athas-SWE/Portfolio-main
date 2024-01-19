@@ -14,8 +14,7 @@ const Education = () => {
       img: profilePic1,
       university: "Srilanka Institute of Information Technology (SLIIT)",
       degree: "BSc (Hons) Information Technology Specialization Software Engineering",
-      Date: "June 2020 - July 2024 (R)",
-      rank: "CGPA - 2.87(Y1-Y3)"
+      Date: "2020 - 2024",
     },
     {
       img: profilePic2,

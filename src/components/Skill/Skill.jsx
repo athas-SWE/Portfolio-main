@@ -46,7 +46,7 @@ const Skill = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Programming Languages"}
-            detail={"Java, C, C++, Python, (C#,DotNet (Beginner))"}
+            detail={"HTML5, CSS , C#, JavaScript/ES6 , Python, Typescript,React Native"}
           />
         </motion.div>
 
@@ -60,7 +60,7 @@ const Skill = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Frame Works"}
-            detail={"React Js, Node Js, JQuery, Bootstrap, Ajax"}
+            detail={".NET & Core technology (C#.NET,MVC5,WebAPI) ,Reactjs,Node.js, Bootstrap, JQuery, Next.js ,Express.js, Flask, Django"}
           />
         </motion.div>
 
@@ -73,8 +73,8 @@ const Skill = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Other Languages"}
-            detail={"Html,CSS,Js,PHP,SQL"}
+            heading={"Languages"}
+            detail={"English , Sinhala , Tamil"}
           />
         </motion.div>
 
@@ -101,7 +101,7 @@ const Skill = () => {
           <Card
             emoji={Humble}
             heading={"Database"}
-            detail={"MongoDB, MySQL , Firebase"}
+            detail={"MongoDB, MSSQL, Firebase"}
             color="rgba(252, 166, 31, 0.45)"
           />
         </motion.div>
@@ -116,18 +116,13 @@ const Skill = () => {
           <Card
             emoji={Humble}
             heading={"Research And Development"}
-            detail={"USAID Project , ETC Garbage Management System (Hackadev)"}
+            detail={"Dialysis Mobile Care APP (Final Year Project),USAID Project , ETC Garbage Management System (Hackadev)"}
             color="rgba(252, 166, 31, 0.45)"
           />
         </motion.div>
 
 
-        <div
-          className="blur s-blur2"
-          style={{ background: "var(--purple)" }}
-        >
 
-        </div>
 
       </div>
     </div>

@@ -48,7 +48,7 @@ const Intro = () => {
             </IconButton>
           </a>
 
-          <a href='https://www.instagram.com/mohamedinfath99/' target="_blank" rel="noopener noreferrer">
+          <a href='https://www.instagram.com/atazz_99?igsh=MTZ1MWU4NzNwa25lMA%3D%3D&utm_source=qr' target="_blank" rel="noopener noreferrer">
             <IconButton>
               <Instagram />
             </IconButton>
