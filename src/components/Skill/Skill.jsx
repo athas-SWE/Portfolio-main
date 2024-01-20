@@ -5,8 +5,7 @@ import HeartEmoji from "../../img/heartemoji.png";
 import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { motion } from "framer-motion";
-import Resume from '../Skill/Resum.pdf';
-
+import Resume from '../Skill/Athas-Ahamed (2).pdf'
 
 
 

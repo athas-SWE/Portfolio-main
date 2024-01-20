@@ -17,13 +17,6 @@ const Education = () => {
       Date: "2020 - 2024",
     },
     {
-      img: profilePic2,
-      university: "The Open University of Srilanka",
-      degree: "BTech (Hons) Computer Engineering",
-      Date: "May 2021 - May 2026",
-      rank: "Loading"
-    },
-    {
       img: profilePic3,
       university: "Zahira College Kalmunai",
       degree: "Physical Science Stream",
