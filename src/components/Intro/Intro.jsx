@@ -21,7 +21,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
 
-          <span >HEY! I Am</span>
+          <span >HEY!! I Am</span>
           <span>Abdul Rasool Athas Ahamed </span>
 
           <span className="name">
