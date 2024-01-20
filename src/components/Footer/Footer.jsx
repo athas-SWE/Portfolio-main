@@ -39,7 +39,7 @@ athas-ahamed-8433a517b' target="_blank" rel="noopener noreferrer">
           </a>
         </div>
         <div className="copy">
-          <p>© 2022 All Rights Reserved by ARA Ahamed</p>
+          <p>© 2024 All Rights Reserved by ARA Ahamed</p>
         </div>
       </div>
     </div>
