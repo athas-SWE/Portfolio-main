@@ -65,3 +65,11 @@
 #dark {
   background-color: #46045e;
 }
+/* App.css */
+
+.dark-mode {
+  background: black;
+  color: white;
+}
+
+/* Add more styles for dark mode as needed */
