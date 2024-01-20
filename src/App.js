@@ -9,10 +9,12 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import { useContext } from "react";
 import { themeContext } from "./Context";
+//import ReactSwitch from "react-switch";
+//import { createContext, useState } from "react";
 
+//export const ThemeContext = createContext(null);
 
 function App() {
-
   const theme = useContext(themeContext);
   const darkMode = theme.state.darkMode;
 
@@ -26,7 +28,7 @@ function App() {
     >
       <Navbar />
       <Intro />
-      <Skill/>
+      <Skill />
       <Works />
       <Education />
       <Portfolio />
@@ -35,5 +37,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
